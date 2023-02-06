@@ -1,4 +1,18 @@
-# FEVM Hardhat Kit
+# Spacework Hackathon - Moderation Experiment
+
+![Welcome to the Legacy Github](https://raw.githubusercontent.com/TheLegacyNetwork/.github/main/profile/legacy-github-splash.png)
+
+This repository contains the base contract/actor for the LEGACY Network's moderation tooling on the Filecoin Virtual Machine (FEVM), it has been bootstrapped using the fevm-hardhat-kit boilerplate for deploying and testing contracts
+
+[See more at the official hardhat kit repository](https://github.com/filecoin-project/fevm-hardhat-kit)
+
+The goal of this experiment is to test a simple flagged content actor on the FEVM to inform the LEGACY Network when content is required for review, in the event of illegal or innappropriate content being posted this actor should initiate a moderation process. If the process is accepted as required for removal the storage deal should then be terminated by a subsequent actor.
+
+Ideally this would be developed alongside a DAO for voting to occur on each request before the moderation process is triggered. The theory for this system is very much still in development, for more information contact our team or leave a message in our [community boards](https://github.com/TheLegacyNetwork/community/discussions)
+
+# Default hardhat kit instructions:
+
+## FEVM Hardhat Kit
 
 ## Cloning the Repo
 
