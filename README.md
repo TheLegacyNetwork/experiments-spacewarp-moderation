@@ -10,6 +10,8 @@ The goal of this experiment is to test a simple flagged content actor on the FEV
 
 Ideally this would be developed alongside a DAO for voting to occur on each request before the moderation process is triggered. The theory for this system is very much still in development, for more information contact our team or leave a message in our [community boards](https://github.com/TheLegacyNetwork/community/discussions)
 
+For more information about LEGACY see [https://legacy.page](https://legacy.page)
+
 # Default hardhat kit instructions:
 
 ## FEVM Hardhat Kit
